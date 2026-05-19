@@ -1,4 +1,4 @@
-<div align="center">
+leftftft <p styleiv align="center">
 
 <img src="https://res.cloudinary.com/di2a9lenz/image/upload/v1777634329/omegatech_media/d7riz8sz6yq3avzq7vaf.jpg" width="100%"/>
 
@@ -14,7 +14,7 @@
   background-clip: text;
   text-shadow: 0 0 12px #ff007f, 0 0 24px #ffb300, 0 0 36px #ff007f;
   padding: 12px 0;
-"> ✨ MUZAMIL-XD ✨<br>Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Muzamil Khan!
+"> ✨ AFYONA-XD ✨<br>Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by div!
 </div>
 
 </div>
@@ -24,13 +24,22 @@
 </h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MUZAMIL-TECHX&label=Views&color=FF4500&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/stars/MUZAMIL-TECHX/MAIN-MUZAMIL-XD?color=FF4500&label=Stars&style=flat" alt="GitHub Stars" />
+    <img src=img src="https://komarev.com/ghpvc/IL-TECHX&label=Views&color=FF4500&style=flat" alt alt="Profile Views" />
+    <img src="https://img.shields.io/github/star-mil-tec=FFAFX/Mmil-tecIN-AFYONAlabel?color=FF4500&label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forksIlabel=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/githuboColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/githuboColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/githubwhite&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/githubs" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/github/forks/MUZAMIL-TECHX/MAIN-MUZAMIL-XD?style=flat&color=1E88E5&logo=github&logoColorXD?color=FF4500&label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forksIN-MUZAMIL-XD?color=FF4500&label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forksIN-MUZAMIL-XD?color=FF4500&label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forkslds.io/github/stars/MUZAMIL-TECHX/MAIN-MUZAMIL-XD?color=FF4500&label=Stars&styleel=Stars&style=flat" alt="GitHub Stars" />
     <img src="https://img.shields.io/github/forks/MUZAMIL-TECHX/MAIN-MUZAMIL-XD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/MUZAMIL-TECHX?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/last-commit/MUZAMIL-TECHX/MAIN-MUZAMIL-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/MUZAMIL-TECHX/MAIN-MUZAMIL-XD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/MUZAMIL-TECHX/MAIN-MUZAMIL-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/package-json/v/NYFA-TrNAorderAFYONAHXborderAFYONA-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
 </p>
 
 ---
@@ -190,7 +199,7 @@
 </p>
 
 <a href="https://whatsapp.com/channel/0029VbCkm3rAe5VzCYLtNb2u" target="_blank">
-  <img src="https://img.shields.io/badge/JOIN_WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
+  <img src="https://img.shields.io/badge/JOIN_WHATSAPP_CHANNEL-AFYONA 201009512392?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://t.me/TeamRedXhacker1" target="_blank">
@@ -218,9 +227,9 @@
 ## Credits ⚒️
 
 <p><strong>Owner & Creator:</strong><br>
-<b>Muzamil Khan</b> (Team RedX Hacker)<br>
-<a href="https://t.me/TeamRedXhacker1">Telegram: @TeamRedXhacker1</a><br>
-Contact: +923183928892</p>
+<b>afyona RedX Hacker)<br>
+<a href="https://t.me/+201009512392: T+201009512392/a><br>
+Contacct: +201009512392</p>
 
 ---
 
